@@ -9,7 +9,7 @@ Top-selling products,
 Revenue analysis by Repeated and Unique customer.
 
 # Tools Used
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+Python (Pandas, NumPy, Matplotlib)
 Excel
 Jupyter Notebook
 
